@@ -1,0 +1,6 @@
+    STRIKES     	     SPARES     
+----------------	----------------
+Sally Jones   12	Betty Smith    4
+George Smith   6	George Smith   4
+Betty Smith    3	Fred Adams     2
+Fred Adams     1	Sally Jones    0
